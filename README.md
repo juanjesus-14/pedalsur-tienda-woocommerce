@@ -66,7 +66,23 @@ Las **fotografías de producto no se incluyen** por derechos de imagen. Al impor
 
 ## Capturas de pantalla
 
-*[PENDIENTE: añade en `docs/capturas/` capturas de la portada, una categoría, una ficha de producto y el carrito, y enlázalas aquí.]*
+**Portada**
+
+![Portada de PedalSur](docs/capturas/portada.jpg)
+
+**Tienda (catálogo con productos en oferta)**
+
+![Página de tienda](docs/capturas/tienda.jpg)
+
+**Ficha de producto**
+
+![Ficha de producto](docs/capturas/producto.jpg)
+
+**Carrito (envío gratuito a partir de 50 €)**
+
+![Carrito](docs/capturas/carrito.jpg)
+
+> Las capturas son de la tienda funcionando en local, con fines educativos. Las fotos de producto que aparecen en ellas no forman parte del repositorio.
 
 ## Autor
 
