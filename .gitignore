@@ -1,0 +1,23 @@
+# Configuración local y secretos (NUNCA subir)
+wp-config.php
+.env
+*.pem
+*.key
+
+# Núcleo de WordPress y contenido de terceros (se instala aparte)
+/wp-admin/
+/wp-includes/
+/wp-content/plugins/
+/wp-content/themes/
+/wp-content/uploads/
+/wp-content/languages/
+/wp-content/cache/
+/wp-content/upgrade/
+
+# Registros, copias y temporales
+*.log
+*.bak
+*.zip
+node_modules/
+.DS_Store
+Thumbs.db
